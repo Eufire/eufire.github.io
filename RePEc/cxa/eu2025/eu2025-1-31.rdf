@@ -1,0 +1,18 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Catalin Strimbei
+Author-Email: linus@uaic.ro
+Author-Workplace-Name: Alexandru Ioan Cuza University of Iasi
+Title: EUROPEAN INTEROPERABILITY REFERENCE ARCHITECTURE TEMPLATE FOR DATA INTEGRATION  
+Abstract: EIRA (European Interoperability Reference Architecture) is a reference architecture meant to guide how to build interoperable solutions for European software (digital) services. The main tooling ecosystem is based on the ArchiMate environment. The defining sections of this reference architecture cover Architectural Building Blocks (ABBs), views, viewpoints, and a Data Space perspective. A Solution Architecture Template (SAT) is a specification of EIRA applied to a particular interoperability problem. A SAT addresses the solution experts and architects of the domain proposal, providing guidance into the organizational, semantic, and technical matters.  The problem of Data Integration comes from the domain of Data Interoperability, which is a main concern of Interoperable Europe initiative of the European Commission. There is an SAT proposal in this area named SAT4OpenData that addresses the Open Data domain, more specifically, "to the practice of publishing (raw) data in a way that is accessible, reusable, machine-readable and licensed permissively".  In this paper, we will discuss the problem of Data Integration in the context of EIRA and how such a SAT proposal could be approached.   
+Classification-JEL: L86; C88; M15 
+Keywords: EIRA; public services; e-Government; software interoperability; application integration; SOA 
+Journal: EUFIRE Conference Proceedings Series
+Pages: 409-416
+Volume: 1
+Issue: 1
+Year: 2025
+Month: October
+DOI: 10.47743/eufire-2025-1-31 
+File-URL: http://eufire.uaic.ro/wp-content/uploads/2025/12/31_Strimbei_409_416.pdf 
+File-Format: Application/pdf
+Handle: RePEc:cxa:eu2025:v:1:y:2025:i:1:p:409-416

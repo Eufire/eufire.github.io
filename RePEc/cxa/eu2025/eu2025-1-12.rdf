@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Valerica Greavu-Serban
+Author-Email: valy.greavu@outlook.com
+Author-Workplace-Name: Alexandru Ioan Cuza University of Iasi
+Author-Name: Vasile-Daniel Pavaloaia 
+Author-Email: danpav@uaic.ro
+Author-Workplace-Name: Alexandru Ioan Cuza University of Iasi
+Title: ADVANCED DATA MODELING IN BUSINESS  USING DYNAMIC ARRAYS AND TRIPLE MATRICES  
+Abstract: Recent developments in Microsoft Excel, particularly the introduction of Dynamic Arrays, have significantly enhanced the capabilities of this ubiquitous tool in financial and accounting analysis. This paper explores the application of modern Excel functions such as MAP(), LAMBDA(), SEQUENCE(), MAKEARRAY(), and LET() in automating complex tasks, minimizing formula redundancy, and enabling advanced modelling without VBA scripting. A structured application of these functions is demonstrated through real-life accounting and finance use cases, including budget projections, data reconciliation, scenario modelling, and error detection. Additionally, a novel methodology termed the Triple Matrix is introduced. Inspired by triple FOR loop logic, this approach enables multidimensional evaluation and aggregation directly within Excel using only native functions. The method systematically generates and processes combinations of values across three axes, allowing the implementation of iterative logic and scenario simulations without macros. This approach is tested in various use cases and evaluated based on automation efficiency, clarity of formulas, performance, and adaptability. Results highlight the added value of combining Dynamic Arrays and Triple Matrix logic for accountants and financial analysts, improving automation, accuracy, and process scalability using only standard Excel functionality.    
+Classification-JEL: M15; G19; H75 
+Keywords: Dynamic Arrays; Triple Matrix; financial modelling; spreadsheet analysis; no-code solutions 
+Journal: EUFIRE Conference Proceedings Series
+Pages: 142-151
+Volume: 1
+Issue: 1
+Year: 2025
+Month: October
+DOI: 10.47743/eufire-2025-1-12
+File-URL: http://eufire.uaic.ro/wp-content/uploads/2025/12/12_Greavu_Pavaloaia_142__151.pdf
+File-Format: Application/pdf
+Handle: RePEc:cxa:eu2025:v:1:y:2025:i:1:p:142-151

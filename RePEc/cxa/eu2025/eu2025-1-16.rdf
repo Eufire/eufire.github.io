@@ -1,0 +1,18 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Elena Kramer 
+Author-Email: elenak@braude.ac.il
+Author-Workplace-Name: Alexandru Ioan Cuza University of Iasi
+Title: QUANTITATIVE ANALYSIS OF THE RELATIONSHIP BETWEEN MATHEMATICAL AND COMPUTATIONAL THINKING IN THE CONTEXT OF AI INTEGRATION  
+Abstract: This research explores the relationship between Mathematical Thinking (MT) and Computational Thinking (CT), two forms of reasoning that are often defined differently but share conceptual similarities. We propose a novel approach to studying this relationship by comparing the metalanguages—the general-purpose vocabulary and structures used to express ideas—across various fields in Mathematics and Computer Science. Our main hypothesis is that if different fields share similar metalanguages, this reflects a deeper connection between them, which may influence understanding and success across domains. To test this, we analyzed multiple text corpora from a range of mathematical and computational disciplines. Using advanced Natural Language Processing (NLP) techniques, including lemmatization and tokenization, we filtered out domain-specific terms to reveal the underlying metalanguage. We applied several clustering algorithms—K-Means, PAM, Density-Based Clustering, and Gaussian Mixture Models—to group fields based on linguistic similarity. Since clustering results can be sensitive to parameters and distance metrics, we further validated the outcomes using a Neural Network-based AI model. This AI integration helped assess the consistency of the clusters and provided a second layer of insight into the linguistic structures across fields. To further evaluate the hypothesis—that fields with similar metalanguages may promote similar levels of comprehension—we combined this computational analysis with both quantitative and qualitative data from student participation. This paper presents the results of the quantitative component, highlighting how AI-assisted analysis can reveal meaningful connections between MT and CT through their shared linguistic foundations.   
+Classification-JEL: C6; A22
+Keywords: mathematical thinking; computational thinking; undergraduate students; education skills; metalanguage
+Journal: EUFIRE Conference Proceedings Series
+Pages: 189-197
+Volume: 1
+Issue: 1
+Year: 2025
+Month: October
+DOI: 10.47743/eufire-2025-1-16
+File-URL: http://eufire.uaic.ro/wp-content/uploads/2025/12/16_Kramer_189_197.pdf
+File-Format: Application/pdf
+Handle: RePEc:cxa:eu2025:v:1:y:2025:i:1:p:189-197

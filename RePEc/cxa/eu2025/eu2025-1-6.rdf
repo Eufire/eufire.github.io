@@ -1,0 +1,18 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Eldad Bar Lev
+Author-Email: eldad2503@gmail.com
+Author-Workplace-Name: Independent researcher, Israel
+Title: THE USE OF MULE WALLETS AND FAKE CRYPTO EXCHANGES BY CRIMINALS
+Abstract: The rapid proliferation of mule wallets and fake cryptocurrency exchanges has emerged as a significant threat to investors and the broader digital asset ecosystem. This study investigates the warning signs associated with fraudulent platforms and mule account networks by employing a mixed-methods approach that integrates blockchain data analytics, user survey responses, and forensic transaction tracing. Quantitative analysis of over 10,000 wallet transactions spanning major blockchain networks reveals distinct behavioral patterns, such as abnormal fund flows, rapid account creation, and disproportionate withdrawal rates, which serve as reliable indicators of illicit activities. Complementary qualitative insights from a survey of 250 cryptocurrency traders underscore the psychological and informational factors that render investors vulnerable to such schemes, including overconfidence bias, lack of due diligence, and susceptibility to social engineering tactics. The findings demonstrate that a combined metric of on-chain anomalies and user-reported experiences can achieve above 90% accuracy in predicting fraudulent platforms. Consequently, we propose a set of investor protection strategies, encompassing pre-trade risk assessments, enhanced know-your-customer (KYC) protocols, and real-time monitoring tools, to mitigate exposure to mule wallet networks and counterfeit exchanges. Policy implications for regulators and recommendations for best practices in crypto forensics are discussed, highlighting the need for collaborative frameworks between law enforcement, blockchain analytics firms, and financial institutions to safeguard the integrity of digital markets.
+Classification-JEL: E42; G28; K42; O33; D82 
+Keywords: mule wallets; fake cryptocurrency exchanges; money laundering; mixing services; crypto regulation
+Journal: EUFIRE Conference Proceedings Series
+Pages: 73-78
+Volume: 1
+Issue: 1
+Year: 2025
+Month: October
+DOI: 10.47743/eufire-2025-1-6
+File-URL: http://eufire.uaic.ro/wp-content/uploads/2025/12/6_Eldad_73_78.pdf
+File-Format: Application/pdf
+Handle: RePEc:cxa:eu2025:v:1:y:2025:i:1:p:73-78
